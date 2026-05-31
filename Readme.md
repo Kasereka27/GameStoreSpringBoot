@@ -1,6 +1,6 @@
 # 🎮 GameStore
 
-GameStore est une application web de gestion d'un catalogue de jeux vidéo. Elle permet de lister, rechercher, ajouter et gérer des jeux vidéo en liant des informations telles que le titre, la plateforme, l'année de sortie, la catégorie et le prix.
+GameStore est une application web de gestion d'un catalogue de jeux vidéo. Elle permet de lister des jeux vidéo en liant des informations telles que le titre, la plateforme, l'année de sortie, la catégorie et le prix.
 
 Ce projet est développé en Java avec le framework **Spring Boot** pour le backend, et utilise **Thymeleaf**, **Tailwind CSS (v4)** et **Flowbite** pour une interface utilisateur moderne et réactive.
 
